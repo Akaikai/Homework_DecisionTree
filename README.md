@@ -1,7 +1,7 @@
 # Homework_DecisionTree
 
 
-File **Reports Decision Tree Classification.pdf** is the experiment report.
+File **Report-Decision Tree Classification.pdf** in file folder **report** is the experiment report.
+The report address: 
 
-
-Other files are the code. The content of each file has been explained in experiment report.
+All the files in file folder **code** are the code. The content of each file has been explained in experiment report.
